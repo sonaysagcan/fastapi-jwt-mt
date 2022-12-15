@@ -1,4 +1,4 @@
-# FastAPI - JWT Token-based Authentication
+# ToDo App with FastAPI - JWT Token based Authentication
 
 
 1. Clone
