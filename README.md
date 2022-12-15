@@ -21,4 +21,4 @@
     (venv)$ python main.py
     ```
 
-5. Test at http://localhost:8081/docs
+5. Test at http://localhost:8000/docs
